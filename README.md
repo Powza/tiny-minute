@@ -1,2 +1,2 @@
-# tiny-minute
-WordPress
+# Tiny Minute
+WordPress Theme
